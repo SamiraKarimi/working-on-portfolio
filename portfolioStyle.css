@@ -24,7 +24,8 @@
 }
 .wrapper{
     background: rgb(96,80,87);
-    background: linear-gradient(99deg, rgba(96,80,87,1) 0%, rgba(113,82,89,1) 35%, rgba(96,80,87,1) 100%);
+    background: linear-gradient(99deg, rgba(96,80,87,1) 0%,
+     rgba(113,82,89,1) 35%, rgba(96,80,87,1) 100%);
     /* padding-top: 10px; */
     min-height:800px;
 }
@@ -40,7 +41,8 @@
     vertical-align: top;
     color:white;
     background: rgb(220,214,224);
-    background: linear-gradient(90deg, rgba(220,214,224,1) 0%, rgba(249,246,252,1) 35%, rgba(240,230,251,0.8018557764902836) 100%); 
+    background: linear-gradient(90deg, rgba(220,214,224,1) 0%,
+     rgba(249,246,252,1) 35%, rgba(240,230,251,0.8018557764902836) 100%); 
     display: inline-block;
     margin-top:10px;
    margin-left:40px;
@@ -69,7 +71,8 @@
     font-weight: bolder;
     font-size: large;
     background: rgb(128,124,130);
-    background: linear-gradient(99deg, rgba(128,124,130,1) 0%, rgba(170,166,175,1) 35%, rgba(128,124,130,1) 100%);
+    background: linear-gradient(99deg, rgba(128,124,130,1) 0%,
+     rgba(170,166,175,1) 35%, rgba(128,124,130,1) 100%);
   
 }
 p{
@@ -105,8 +108,9 @@ h2{
     display: inline-block;
     width:310px;
     /* height:300px; */
-    background: rgb(220,214,224);
-background: linear-gradient(90deg, rgba(220,214,224,1) 0%, rgba(249,246,252,1) 35%, rgba(240,230,251,0.8018557764902836) 100%);
+background: rgb(220,214,224);
+background: linear-gradient(90deg, rgba(220,214,224,1) 0%,
+rgba(249,246,252,1) 35%, rgba(240,230,251,0.8018557764902836) 100%);
     margin:20px;
     vertical-align: top;
 }
@@ -124,7 +128,8 @@ background: linear-gradient(90deg, rgba(220,214,224,1) 0%, rgba(249,246,252,1) 3
     font-weight: bolder;
     font-size: large;
     background: rgb(128,124,130);
-    background: linear-gradient(99deg, rgba(128,124,130,1) 0%, rgba(170,166,175,1) 35%, rgba(128,124,130,1) 100%);
+    background: linear-gradient(99deg, rgba(128,124,130,1) 0%,
+     rgba(170,166,175,1) 35%, rgba(128,124,130,1) 100%);
 }
 .innerbox img{
     width:310px;
@@ -140,9 +145,7 @@ background: linear-gradient(90deg, rgba(220,214,224,1) 0%, rgba(249,246,252,1) 3
 width: 45px;
 height: 50px;
 margin:5px;
-}
-.threeBoxRapper .secondBox img{
-    display:inline-block;
+display:inline-block;
 }
 
 input[type = "submit"]{
